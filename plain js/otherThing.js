@@ -1,2 +1,0 @@
-//yayayayayyaya
-console.log("hihi");
